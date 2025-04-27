@@ -28,14 +28,14 @@ h. Reasoning Model Fine-Tuning (GRPO)
 
 Fine-tuned models on different tasks such as coding, chat, instruction-following, and classification.
 
-| Model Used           | Use Case Type  | Colab Link |
-|----------------------|----------------|------------|
-| Llama 3.1 (8B)       | Coding Assistant | [Colab 🔗]() |
-| Mistral NeMo (12B)   | Instruction Chat | [Colab 🔗]() |
-| Phi-3.5 (mini)       | Conversational Chatbot | [Colab 🔗]() |
-| Gemma 2 (9B)         | Text Classification | [Colab 🔗]() |
+| Model Used           | Use Case Type  | 
+|----------------------|----------------|
+| Llama 3.1 (8B)       | Coding Assistant | 
+| Mistral NeMo (12B)   | Instruction Chat |
+| Phi-3.5 (mini)       | Conversational Chatbot | 
+| Gemma 2 (9B)         | Text Classification | 
 
-- **🎥 Video**: [Watch 🎥]()
+- **🎥 Video**: [Watch 🎥](https://youtu.be/h39J8gDmQlk)
 
 ---
 
@@ -43,8 +43,7 @@ Fine-tuned models on different tasks such as coding, chat, instruction-following
 
 Using Unsloth AI, continued pretraining to teach an LLM a new language.
 
-- **Colab Notebook**: [Link 🔗]()
-- **🎥 Video**: [Watch 🎥]()
+- **🎥 Video**: [Watch 🎥](https://youtu.be/h39J8gDmQlk)
 
 ---
 
@@ -52,13 +51,13 @@ Using Unsloth AI, continued pretraining to teach an LLM a new language.
 
 Explored Unsloth's chat templates to perform multiple tasks in a single finetuning run.
 
-| Task Type                  | Colab Link |
-|---------------------------|------------|
-| Conversational Chat       | [Colab 🔗]() | 
-| Classification via Chat   | [Colab 🔗]() | 
-| Extend Max Context (TinyLlama) | [Colab 🔗]() |
+| Task Type                  | 
+|---------------------------|
+| Conversational Chat       |
+| Classification via Chat   | 
+| Extend Max Context (TinyLlama) | 
 
-- **🎥 Video**: [Watch 🎥]()
+- **🎥 Video**: [Watch 🎥](https://youtu.be/h39J8gDmQlk)
 
 ---
 
@@ -66,12 +65,12 @@ Explored Unsloth's chat templates to perform multiple tasks in a single finetuni
 
 Used ORPO and DPO techniques to align models using preference data.
 
-| Technique | Colab Link |
-|-----------|------------|
-| ORPO      | [Colab 🔗]() | 
-| DPO       | [Colab 🔗]() | 
+| Technique | 
+|-----------|
+| ORPO      | 
+| DPO       | 
 
-- **🎥 Video**: [Watch 🎥]()
+- **🎥 Video**: [Watch 🎥](https://youtu.be/h39J8gDmQlk)
 
 ---
 
@@ -79,8 +78,7 @@ Used ORPO and DPO techniques to align models using preference data.
 
 Demonstrated how to resume fine-tuning from a saved checkpoint and extend training.
 
-- **Colab Notebook**: [Link 🔗]()
-- **🎥 Video**: [Watch 🎥]()
+- **🎥 Video**: [Watch 🎥](https://youtu.be/h39J8gDmQlk)
 
 ---
 
@@ -88,8 +86,7 @@ Demonstrated how to resume fine-tuning from a saved checkpoint and extend traini
 
 Fine-tuned Microsoft Phi-3 using a custom mental health dataset to develop a therapeutic chatbot.
 
-- **Colab Notebook**: [Link 🔗]()
-- **🎥 Video**: [Watch 🎥]()
+- **🎥 Video**: [Watch 🎥](https://youtu.be/h39J8gDmQlk)
 
 ---
 
@@ -97,8 +94,7 @@ Fine-tuned Microsoft Phi-3 using a custom mental health dataset to develop a the
 
 Used Unsloth to fine-tune a model and export it to Ollama for lightweight local inference.
 
-- **Colab Notebook**: [Link 🔗]()
-- **🎥 Video**: [Watch 🎥]()
+- **🎥 Video**: [Watch 🎥](https://youtu.be/h39J8gDmQlk)
 
 ---
 
@@ -106,14 +102,6 @@ Used Unsloth to fine-tune a model and export it to Ollama for lightweight local 
 
 Trained a reasoning model with GRPO from scratch and evaluated it on reasoning datasets.
 
-- **Colab Notebook**: [Link 🔗]()
-- **🎥 Video**: [Watch 🎥]()
-
----
-
-## 📌 Notes
-- All models were fine-tuned using Unsloth LoRA adapters for efficiency.
-- All demos were run on Google Colab with GPU enabled.
-- Each notebook is accompanied by a short 1-2 minute video walkthrough.
+- **🎥 Video**: [Watch 🎥](https://youtu.be/h39J8gDmQlk)
 
 ---
